@@ -1,5 +1,5 @@
 # Widgets - React, React Hooks
-👉[Demo](https://react-hooks-widgets.herokuapp.com/)👈
+👉[Demo](https://redwan-react-hooks.netlify.app/)👈
 * Due to Google Translation API not being free the API only runs on networks running on HTTPS (localhost:3000) 😞.
 * I have included images of the Google translation widget bellow attached to the read me.
 
